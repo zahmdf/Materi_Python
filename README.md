@@ -1,2 +1,2 @@
-# Materi_Python
-code code materi python basic 
+# Materi_Python 3.x
+
